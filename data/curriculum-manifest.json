@@ -2128,7 +2128,7 @@
       "7"
     ]
   },
-      "standardCount": 11,
+      "standardCount": 12,
       "aliasCount": 0
     },
     {
@@ -2152,6 +2152,96 @@
         "gradeLevels": [
           "8"
         ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g6",
+      "label": "Ontario Mathematics Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["6"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g5",
+      "label": "Ontario Mathematics Grade 5 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g5.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["5"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g4",
+      "label": "Ontario Mathematics Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["4"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g3",
+      "label": "Ontario Mathematics Grade 3 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g3.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["3"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g2",
+      "label": "Ontario Mathematics Grade 2 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g2.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["2"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g1",
+      "label": "Ontario Mathematics Grade 1 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g1.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["mathematics"],
+        "gradeLevels": ["1"]
       },
       "standardCount": 12,
       "aliasCount": 0

@@ -2588,8 +2588,7 @@ function updateCurriculumSourceLink(root, curriculum) {
         curriculum.jurisdiction === 'ca-on' &&
         track &&
         track.subjectAreaId === 'mathematics' &&
-        ['7', '8'].indexOf(curriculum.grade) !== -1
-    ) {
+/^[1-8]$/.test(String(curriculum.grade))    ) {
         sourceUrl =
             'https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/grades/g' +
             curriculum.grade +
