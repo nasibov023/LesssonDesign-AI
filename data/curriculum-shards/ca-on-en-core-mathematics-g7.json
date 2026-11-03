@@ -100,9 +100,21 @@
     "moduleType": "outcome",
     "moduleLabel": "Mathematics",
     "moduleSequence": 50
-  },
-  {
-    "id": "ca-on-mathematics-g7-d1",
+},
+{
+  "id": "ca-on-mathematics-g7-c4",
+  "unit": "Algebra",
+  "strand": "Algebra",
+  "standardCode": "C4",
+  "summaryText": "apply the process of mathematical modelling to represent, analyse, make predictions, and provide insight into real-life situations",
+  "officialOutcomeText": "apply the process of mathematical modelling to represent, analyse, make predictions, and provide insight into real-life situations",
+  "curriculumFocus": "Mathematical Modelling",
+  "sourceDocumentId": "ontario-math-g7-all-strands",
+  "moduleType": "outcome",
+  "moduleLabel": "Mathematics",
+  "moduleSequence": 55
+},
+{    "id": "ca-on-mathematics-g7-d1",
     "unit": "Data",
     "strand": "Data",
     "standardCode": "D1",
