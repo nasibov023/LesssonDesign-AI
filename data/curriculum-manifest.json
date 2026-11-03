@@ -2128,8 +2128,33 @@
       "7"
     ]
   },
- "standardCount": 11,
-  "aliasCount": 0
-}
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-mathematics-g8",
+      "label": "Ontario Mathematics Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    }
   ]
 }

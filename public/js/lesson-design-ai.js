@@ -2570,7 +2570,42 @@
 		return strings.aiRequestFailed || 'AI Assist ran into a problem. Please try again in a moment.';
 	}
 
-function populateSelects(root, state) {
+function updateCurriculumSourceLink(root, curriculum) {
+    var container = root.querySelector('[data-curriculum-source]');
+    var link = root.querySelector('[data-curriculum-source-link]');
+
+    if (!container || !link) {
+        return;
+    }
+
+    var track = getCurriculumTrackById(curriculum.track);
+    var sourceUrl = track && track.jurisdictionId === curriculum.jurisdiction
+        ? track.sourceUrl
+        : '';
+
+    // Link directly to the selected Ontario Mathematics grade.
+    if (
+        curriculum.jurisdiction === 'ca-on' &&
+        track &&
+        track.subjectAreaId === 'mathematics' &&
+        ['7', '8'].indexOf(curriculum.grade) !== -1
+    ) {
+        sourceUrl =
+            'https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/grades/g' +
+            curriculum.grade +
+            '-math/strands';
+    }
+
+    if (!sourceUrl || !/^https:\/\//i.test(sourceUrl)) {
+        container.hidden = true;
+        link.removeAttribute('href');
+        return;
+    }
+
+    link.href = sourceUrl;
+    container.hidden = false;
+}
+	function populateSelects(root, state) {
     var trackSelect = root.querySelector('[data-bind="curriculum.track"]');
     var gradeSelect = root.querySelector('[data-bind="curriculum.grade"]');
     var provinceSelect = root.querySelector('[data-bind="curriculum.jurisdiction"]');
@@ -2600,18 +2635,50 @@ function populateSelects(root, state) {
         }) ? current.track : '';
     }
 
-    if (gradeSelect) {
-        var grades = curriculumSourcesData.gradeLevels || curriculumData.grades || [];
+if (gradeSelect) {
+    var grades = curriculumSourcesData.gradeLevels || curriculumData.grades || [];
 
-        if (current.jurisdiction === 'ca-ab') {
-            grades = grades.filter(function (item) {
-                return ALBERTA_GRADE_IDS.indexOf(item.id) > -1;
-            });
-        }
+    if (current.jurisdiction === 'ca-ab') {
+        // Preserve the existing Alberta grade selection.
+        grades = grades.filter(function (item) {
+            return ALBERTA_GRADE_IDS.indexOf(item.id) > -1;
+        });
+    } else if (current.jurisdiction === 'ca-on') {
+        // Determine which Ontario grades have available curriculum data.
+        var availableGrades = [];
 
-        setSelectOptions(gradeSelect, grades, 'Choose A Grade');
-        gradeSelect.value = current.grade || '';
+        (curriculumManifestData.shards || []).forEach(function (shard) {
+            var filters = shard.filters || {};
+
+            if (
+                filters.country === 'CA' &&
+                (filters.jurisdictionIds || []).indexOf('ca-on') > -1 &&
+                (!current.track ||
+                    (filters.subjectIds || []).indexOf(
+                        (getCurriculumTrackById(current.track) || {}).subjectAreaId
+                    ) > -1)
+            ) {
+                availableGrades = availableGrades.concat(filters.gradeLevels || []);
+            }
+        });
+
+        grades = grades.filter(function (item) {
+            return availableGrades.indexOf(item.id) > -1;
+        });
     }
+
+    setSelectOptions(gradeSelect, grades, 'Choose A Grade');
+
+    if (!grades.some(function (item) {
+        return item.id === current.grade;
+    })) {
+        current.grade = '';
+    }
+
+           gradeSelect.value = current.grade || '';
+    }
+
+    updateCurriculumSourceLink(root, current);
 }
 
 function normalizeCurriculumSelectorDefaults(curriculum) {
