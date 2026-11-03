@@ -2365,6 +2365,126 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g1",
+      "label": "Ontario Science and Technology Grade 1 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g1.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["1"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g2",
+      "label": "Ontario Science and Technology Grade 2 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g2.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["2"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g3",
+      "label": "Ontario Science and Technology Grade 3 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g3.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["3"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g4",
+      "label": "Ontario Science and Technology Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["4"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g5",
+      "label": "Ontario Science and Technology Grade 5 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g5.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["5"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g6",
+      "label": "Ontario Science and Technology Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["6"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g7",
+      "label": "Ontario Science and Technology Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["7"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-science-g8",
+      "label": "Ontario Science and Technology Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-science-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["science"],
+        "gradeLevels": ["8"]
+      },
+      "standardCount": 11,
+      "aliasCount": 0
     }
   ]
 }
