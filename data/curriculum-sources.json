@@ -255,6 +255,17 @@
   "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics"
 },
     {
+  "id": "ca-on-en-core-language",
+  "country": "CA",
+  "jurisdictionId": "ca-on",
+  "frameworkId": "ca-on-curriculum",
+  "programId": "en-core",
+  "subjectAreaId": "language",
+  "subject": "language",
+  "label": "Ontario Language",
+  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-language"
+},
+    {
       "id": "ca-ab-en-core-science",
       "country": "CA",
       "jurisdictionId": "ca-ab",
