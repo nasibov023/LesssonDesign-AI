@@ -2245,6 +2245,126 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g1",
+      "label": "Ontario Language Grade 1 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g1.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["1"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g2",
+      "label": "Ontario Language Grade 2 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g2.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["2"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g3",
+      "label": "Ontario Language Grade 3 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g3.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["3"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g4",
+      "label": "Ontario Language Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["4"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g5",
+      "label": "Ontario Language Grade 5 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g5.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["5"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g6",
+      "label": "Ontario Language Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["6"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g7",
+      "label": "Ontario Language Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["7"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-language-g8",
+      "label": "Ontario Language Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-language-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["language"],
+        "gradeLevels": ["8"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
