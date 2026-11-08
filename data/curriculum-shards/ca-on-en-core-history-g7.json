@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-history-g7",
+    "label": "Ontario History Grade 7 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "7",
+    "gradeBand": "Grade 7",
+    "gradeLabel": "Grade 7",
+    "courseCode": "HIS7",
+    "courseLabel": "History",
+    "courseTitle": "History",
+    "subject": "history",
+    "subjectAreaId": "history",
+    "subjectId": "history"
+  },
+  "documents": {
+    "ontario-history-g7-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/history-g7",
+      "documentTitle": "Ontario History Grade 7 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-history-g7-a1",
+      "unit": "New France and British North America, 1713–1800",
+      "strand": "New France and British North America, 1713–1800",
+      "standardCode": "A1",
+      "summaryText": "analyze aspects of the experiences of various groups and communities, including First Nations, Métis, and Inuit communities, in Canada between 1713 and 1800, and compare them to the lives of people in present-day Canada",
+      "officialOutcomeText": "analyze aspects of the experiences of various groups and communities, including First Nations, Métis, and Inuit communities, in Canada between 1713 and 1800, and compare them to the lives of people in present-day Canada",
+      "curriculumFocus": "New France and British North America, 1713–1800",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g7-a2",
+      "unit": "New France and British North America, 1713–1800",
+      "strand": "New France and British North America, 1713–1800",
+      "standardCode": "A2",
+      "summaryText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues related to the shift in power in colonial Canada from France to Britain",
+      "officialOutcomeText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues related to the shift in power in colonial Canada from France to Britain",
+      "curriculumFocus": "New France and British North America, 1713–1800",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g7-a3",
+      "unit": "New France and British North America, 1713–1800",
+      "strand": "New France and British North America, 1713–1800",
+      "standardCode": "A3",
+      "summaryText": "describe various significant people, events, and developments, including treaties, in Canada between 1713 and 1800, and explain their impact",
+      "officialOutcomeText": "describe various significant people, events, and developments, including treaties, in Canada between 1713 and 1800, and explain their impact",
+      "curriculumFocus": "New France and British North America, 1713–1800",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g7-b1",
+      "unit": "Canada, 1800–1850: Conflict and Challenges",
+      "strand": "Canada, 1800–1850: Conflict and Challenges",
+      "standardCode": "B1",
+      "summaryText": "analyze aspects of the lives of various groups and communities, including First Nations, Métis, and Inuit communities, in Canada between 1800 and 1850, and compare them to the lives of people in Canada in 1713–1800",
+      "officialOutcomeText": "analyze aspects of the lives of various groups and communities, including First Nations, Métis, and Inuit communities, in Canada between 1800 and 1850, and compare them to the lives of people in Canada in 1713–1800",
+      "curriculumFocus": "Canada, 1800–1850: Conflict and Challenges",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g7-b2",
+      "unit": "Canada, 1800–1850: Conflict and Challenges",
+      "strand": "Canada, 1800–1850: Conflict and Challenges",
+      "standardCode": "B2",
+      "summaryText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1800 and 1850",
+      "officialOutcomeText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1800 and 1850",
+      "curriculumFocus": "Canada, 1800–1850: Conflict and Challenges",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g7-b3",
+      "unit": "Canada, 1800–1850: Conflict and Challenges",
+      "strand": "Canada, 1800–1850: Conflict and Challenges",
+      "standardCode": "B3",
+      "summaryText": "describe various significant people, events, and developments, including treaties between Indigenous nations and imperial powers, in Canada between 1800 and 1850, and explain their impact",
+      "officialOutcomeText": "describe various significant people, events, and developments, including treaties between Indigenous nations and imperial powers, in Canada between 1800 and 1850, and explain their impact",
+      "curriculumFocus": "Canada, 1800–1850: Conflict and Challenges",
+      "sourceDocumentId": "ontario-history-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

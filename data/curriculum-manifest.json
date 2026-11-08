@@ -2575,6 +2575,66 @@
       },
       "standardCount": 6,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-history-g7",
+      "label": "Ontario History Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-history-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["history"],
+        "gradeLevels": ["7"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-history-g8",
+      "label": "Ontario History Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-history-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["history"],
+        "gradeLevels": ["8"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-geography-g7",
+      "label": "Ontario Geography Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-geography-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["geography"],
+        "gradeLevels": ["7"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-geography-g8",
+      "label": "Ontario Geography Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-geography-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["geography"],
+        "gradeLevels": ["8"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
     }
   ]
 }

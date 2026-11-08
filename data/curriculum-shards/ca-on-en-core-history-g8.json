@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-history-g8",
+    "label": "Ontario History Grade 8 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "8",
+    "gradeBand": "Grade 8",
+    "gradeLabel": "Grade 8",
+    "courseCode": "HIS8",
+    "courseLabel": "History",
+    "courseTitle": "History",
+    "subject": "history",
+    "subjectAreaId": "history",
+    "subjectId": "history"
+  },
+  "documents": {
+    "ontario-history-g8-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/history-g8",
+      "documentTitle": "Ontario History Grade 8 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-history-g8-a1",
+      "unit": "Creating Canada, 1850–1890",
+      "strand": "Creating Canada, 1850–1890",
+      "standardCode": "A1",
+      "summaryText": "assess the impact of some key social, economic, and political factors, including social, economic, and/or political inequalities, on various groups and communities, including First Nations, Métis, and Inuit communities, and on the creation and expansion of the Dominion of Canada, between 1850 and 1890",
+      "officialOutcomeText": "assess the impact of some key social, economic, and political factors, including social, economic, and/or political inequalities, on various groups and communities, including First Nations, Métis, and Inuit communities, and on the creation and expansion of the Dominion of Canada, between 1850 and 1890",
+      "curriculumFocus": "Creating Canada, 1850–1890",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g8-a2",
+      "unit": "Creating Canada, 1850–1890",
+      "strand": "Creating Canada, 1850–1890",
+      "standardCode": "A2",
+      "summaryText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1850 and 1890",
+      "officialOutcomeText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1850 and 1890",
+      "curriculumFocus": "Creating Canada, 1850–1890",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g8-a3",
+      "unit": "Creating Canada, 1850–1890",
+      "strand": "Creating Canada, 1850–1890",
+      "standardCode": "A3",
+      "summaryText": "describe various significant people, events, and developments in Canada between 1850 and 1890, including the Indian Act, treaties between Indigenous nations and the Crown, and the residential school system, and explain their impact",
+      "officialOutcomeText": "describe various significant people, events, and developments in Canada between 1850 and 1890, including the Indian Act, treaties between Indigenous nations and the Crown, and the residential school system, and explain their impact",
+      "curriculumFocus": "Creating Canada, 1850–1890",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g8-b1",
+      "unit": "Canada, 1890–1914: A Changing Society",
+      "strand": "Canada, 1890–1914: A Changing Society",
+      "standardCode": "B1",
+      "summaryText": "assess key similarities and differences between Canada in 1890–1914 and in the present day, with reference to the experiences of, major challenges facing, and actions taken by various individuals, groups, and/or communities, including First Nations, Métis, and Inuit individuals and/or communities",
+      "officialOutcomeText": "assess key similarities and differences between Canada in 1890–1914 and in the present day, with reference to the experiences of, major challenges facing, and actions taken by various individuals, groups, and/or communities, including First Nations, Métis, and Inuit individuals and/or communities",
+      "curriculumFocus": "Canada, 1890–1914: A Changing Society",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g8-b2",
+      "unit": "Canada, 1890–1914: A Changing Society",
+      "strand": "Canada, 1890–1914: A Changing Society",
+      "standardCode": "B2",
+      "summaryText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1890 and 1914",
+      "officialOutcomeText": "use the historical inquiry process to investigate perspectives of different groups and communities, including First Nations, Métis, and/or Inuit communities, on some significant events, developments, and/or issues that affected Canada and/or people in Canada between 1890 and 1914",
+      "curriculumFocus": "Canada, 1890–1914: A Changing Society",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-history-g8-b3",
+      "unit": "Canada, 1890–1914: A Changing Society",
+      "strand": "Canada, 1890–1914: A Changing Society",
+      "standardCode": "B3",
+      "summaryText": "describe various significant people, issues, events, and developments in Canada between 1890 and 1914, including the residential school system, and explain their impact",
+      "officialOutcomeText": "describe various significant people, issues, events, and developments in Canada between 1890 and 1914, including the residential school system, and explain their impact",
+      "curriculumFocus": "Canada, 1890–1914: A Changing Society",
+      "sourceDocumentId": "ontario-history-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "History",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

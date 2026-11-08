@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-geography-g8",
+    "label": "Ontario Geography Grade 8 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "8",
+    "gradeBand": "Grade 8",
+    "gradeLabel": "Grade 8",
+    "courseCode": "GEO8",
+    "courseLabel": "Geography",
+    "courseTitle": "Geography",
+    "subject": "geography",
+    "subjectAreaId": "geography",
+    "subjectId": "geography"
+  },
+  "documents": {
+    "ontario-geography-g8-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g8-geo",
+      "documentTitle": "Ontario Geography Grade 8 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-geography-g8-a1",
+      "unit": "Global Settlement: Patterns and Sustainability",
+      "strand": "Global Settlement: Patterns and Sustainability",
+      "standardCode": "A1",
+      "summaryText": "analyse some significant interrelationships between Earth’s physical features and processes and human settlement patterns, and some ways in which the physical environment and issues of sustainability may affect settlement in the future",
+      "officialOutcomeText": "analyse some significant interrelationships between Earth’s physical features and processes and human settlement patterns, and some ways in which the physical environment and issues of sustainability may affect settlement in the future",
+      "curriculumFocus": "Global Settlement: Patterns and Sustainability",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g8-a2",
+      "unit": "Global Settlement: Patterns and Sustainability",
+      "strand": "Global Settlement: Patterns and Sustainability",
+      "standardCode": "A2",
+      "summaryText": "use the geographic inquiry process to investigate issues related to the interrelationship between human settlement and sustainability from a geographic perspective",
+      "officialOutcomeText": "use the geographic inquiry process to investigate issues related to the interrelationship between human settlement and sustainability from a geographic perspective",
+      "curriculumFocus": "Global Settlement: Patterns and Sustainability",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g8-a3",
+      "unit": "Global Settlement: Patterns and Sustainability",
+      "strand": "Global Settlement: Patterns and Sustainability",
+      "standardCode": "A3",
+      "summaryText": "demonstrate an understanding of significant patterns and trends related to human settlement and of ways in which human settlement affects the environment",
+      "officialOutcomeText": "demonstrate an understanding of significant patterns and trends related to human settlement and of ways in which human settlement affects the environment",
+      "curriculumFocus": "Global Settlement: Patterns and Sustainability",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g8-b1",
+      "unit": "Global Inequalities: Economic Development and Quality of Life",
+      "strand": "Global Inequalities: Economic Development and Quality of Life",
+      "standardCode": "B1",
+      "summaryText": "analyse some interrelationships among factors that contribute to global inequalities, with a focus on inequalities in quality of life, and assess various responses to these inequalities",
+      "officialOutcomeText": "analyse some interrelationships among factors that contribute to global inequalities, with a focus on inequalities in quality of life, and assess various responses to these inequalities",
+      "curriculumFocus": "Global Inequalities: Economic Development and Quality of Life",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g8-b2",
+      "unit": "Global Inequalities: Economic Development and Quality of Life",
+      "strand": "Global Inequalities: Economic Development and Quality of Life",
+      "standardCode": "B2",
+      "summaryText": "use the geographic inquiry process to investigate issues related to global development and quality of life from a geographic perspective",
+      "officialOutcomeText": "use the geographic inquiry process to investigate issues related to global development and quality of life from a geographic perspective",
+      "curriculumFocus": "Global Inequalities: Economic Development and Quality of Life",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g8-b3",
+      "unit": "Global Inequalities: Economic Development and Quality of Life",
+      "strand": "Global Inequalities: Economic Development and Quality of Life",
+      "standardCode": "B3",
+      "summaryText": "demonstrate an understanding of significant patterns in and factors affecting economic development and quality of life in different regions of the world",
+      "officialOutcomeText": "demonstrate an understanding of significant patterns in and factors affecting economic development and quality of life in different regions of the world",
+      "curriculumFocus": "Global Inequalities: Economic Development and Quality of Life",
+      "sourceDocumentId": "ontario-geography-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}
