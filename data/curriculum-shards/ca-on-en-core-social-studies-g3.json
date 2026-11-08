@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-social-studies-g3",
+    "label": "Ontario Social Studies Grade 3 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "3",
+    "gradeBand": "Grade 3",
+    "gradeLabel": "Grade 3",
+    "courseCode": "SOC3",
+    "courseLabel": "Social Studies",
+    "courseTitle": "Social Studies",
+    "subject": "social-studies",
+    "subjectAreaId": "social-studies",
+    "subjectId": "social-studies"
+  },
+  "documents": {
+    "ontario-social-studies-g3-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g3-ss",
+      "documentTitle": "Ontario Social Studies Grade 3 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-social-studies-g3-a1",
+      "unit": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "strand": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "standardCode": "A1",
+      "summaryText": "compare ways of life among some specific groups in Canada, including a few First Nations, Métis, and Inuit communities, from around 1780 to 1850, and describe some of the changes between that era and the present day",
+      "officialOutcomeText": "compare ways of life among some specific groups in Canada, including a few First Nations, Métis, and Inuit communities, from around 1780 to 1850, and describe some of the changes between that era and the present day",
+      "curriculumFocus": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g3-a2",
+      "unit": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "strand": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "standardCode": "A2",
+      "summaryText": "use the social studies inquiry process to investigate some of the major challenges that various groups and communities, including a few First Nations, Métis, and Inuit communities, faced in Canada from around 1780 to 1850, and key measures taken to address these challenges",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some of the major challenges that various groups and communities, including a few First Nations, Métis, and Inuit communities, faced in Canada from around 1780 to 1850, and key measures taken to address these challenges",
+      "curriculumFocus": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g3-a3",
+      "unit": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "strand": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "standardCode": "A3",
+      "summaryText": "identify some of the communities in Canada, including a few First Nations, Métis, and Inuit communities, from around 1780 to 1850, and describe their relationships to the land and to each other",
+      "officialOutcomeText": "identify some of the communities in Canada, including a few First Nations, Métis, and Inuit communities, from around 1780 to 1850, and describe their relationships to the land and to each other",
+      "curriculumFocus": "Heritage and Identity: Communities in Canada, 1780–1850",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g3-b1",
+      "unit": "People and Environments: Living and Working in Ontario",
+      "strand": "People and Environments: Living and Working in Ontario",
+      "standardCode": "B1",
+      "summaryText": "demonstrate an understanding of some key aspects of the interrelationship between the natural environment, land use, employment opportunities, and the development of municipal regions, First Nations communities, and/or Métis regions in Ontario",
+      "officialOutcomeText": "demonstrate an understanding of some key aspects of the interrelationship between the natural environment, land use, employment opportunities, and the development of municipal regions, First Nations communities, and/or Métis regions in Ontario",
+      "curriculumFocus": "People and Environments: Living and Working in Ontario",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g3-b2",
+      "unit": "People and Environments: Living and Working in Ontario",
+      "strand": "People and Environments: Living and Working in Ontario",
+      "standardCode": "B2",
+      "summaryText": "use the social studies inquiry process to investigate some of the environmental effects of different types of land and/or resource use in Ontario municipal regions, First Nations communities, and/or Métis regions, as well as some of the measures taken to reduce the negative impact of that use",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some of the environmental effects of different types of land and/or resource use in Ontario municipal regions, First Nations communities, and/or Métis regions, as well as some of the measures taken to reduce the negative impact of that use",
+      "curriculumFocus": "People and Environments: Living and Working in Ontario",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g3-b3",
+      "unit": "People and Environments: Living and Working in Ontario",
+      "strand": "People and Environments: Living and Working in Ontario",
+      "standardCode": "B3",
+      "summaryText": "describe major landform regions and types of land use in Ontario and some of the ways in which land use in various Ontario municipalities, including First Nations communities, and/or Métis regions, addresses human needs and wants, including the need for jobs",
+      "officialOutcomeText": "describe major landform regions and types of land use in Ontario and some of the ways in which land use in various Ontario municipalities, including First Nations communities, and/or Métis regions, addresses human needs and wants, including the need for jobs",
+      "curriculumFocus": "People and Environments: Living and Working in Ontario",
+      "sourceDocumentId": "ontario-social-studies-g3-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-social-studies-g5",
+    "label": "Ontario Social Studies Grade 5 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "5",
+    "gradeBand": "Grade 5",
+    "gradeLabel": "Grade 5",
+    "courseCode": "SOC5",
+    "courseLabel": "Social Studies",
+    "courseTitle": "Social Studies",
+    "subject": "social-studies",
+    "subjectAreaId": "social-studies",
+    "subjectId": "social-studies"
+  },
+  "documents": {
+    "ontario-social-studies-g5-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g5-ss",
+      "documentTitle": "Ontario Social Studies Grade 5 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-social-studies-g5-a1",
+      "unit": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "strand": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "standardCode": "A1",
+      "summaryText": "analyse some key short- and long-term consequences of interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada",
+      "officialOutcomeText": "analyse some key short- and long-term consequences of interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada",
+      "curriculumFocus": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g5-a2",
+      "unit": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "strand": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "standardCode": "A2",
+      "summaryText": "use the social studies inquiry process to investigate aspects of the interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada, from the perspectives of the various groups involved",
+      "officialOutcomeText": "use the social studies inquiry process to investigate aspects of the interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada, from the perspectives of the various groups involved",
+      "curriculumFocus": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g5-a3",
+      "unit": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "strand": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "standardCode": "A3",
+      "summaryText": "describe significant features of and interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada",
+      "officialOutcomeText": "describe significant features of and interactions among Indigenous peoples, among Europeans, and between Indigenous and European people prior to 1713 in what would eventually become Canada",
+      "curriculumFocus": "Heritage and Identity: Interactions of Indigenous Peoples and Europeans prior to 1713, in What Would Eventually Become Canada",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g5-b1",
+      "unit": "People and Environments: The Role of Government and Responsible Citizenship",
+      "strand": "People and Environments: The Role of Government and Responsible Citizenship",
+      "standardCode": "B1",
+      "summaryText": "assess responses of governments in Canada, including First Nations, Métis, and Inuit governments, to some significant issues, and develop plans of action for governments and citizens to address social and environmental issues",
+      "officialOutcomeText": "assess responses of governments in Canada, including First Nations, Métis, and Inuit governments, to some significant issues, and develop plans of action for governments and citizens to address social and environmental issues",
+      "curriculumFocus": "People and Environments: The Role of Government and Responsible Citizenship",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g5-b2",
+      "unit": "People and Environments: The Role of Government and Responsible Citizenship",
+      "strand": "People and Environments: The Role of Government and Responsible Citizenship",
+      "standardCode": "B2",
+      "summaryText": "use the social studies inquiry process to investigate Canadian social and/or environmental issues from various perspectives, including those of Indigenous peoples as well as of the level (or levels) of government responsible for addressing the issues",
+      "officialOutcomeText": "use the social studies inquiry process to investigate Canadian social and/or environmental issues from various perspectives, including those of Indigenous peoples as well as of the level (or levels) of government responsible for addressing the issues",
+      "curriculumFocus": "People and Environments: The Role of Government and Responsible Citizenship",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g5-b3",
+      "unit": "People and Environments: The Role of Government and Responsible Citizenship",
+      "strand": "People and Environments: The Role of Government and Responsible Citizenship",
+      "standardCode": "B3",
+      "summaryText": "demonstrate an understanding of the roles and key responsibilities of citizens and of the different levels of government in Canada, including First Nations, Métis, and Inuit governments",
+      "officialOutcomeText": "demonstrate an understanding of the roles and key responsibilities of citizens and of the different levels of government in Canada, including First Nations, Métis, and Inuit governments",
+      "curriculumFocus": "People and Environments: The Role of Government and Responsible Citizenship",
+      "sourceDocumentId": "ontario-social-studies-g5-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

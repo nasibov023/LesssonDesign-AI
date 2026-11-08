@@ -2485,6 +2485,96 @@
       },
       "standardCount": 11,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g1",
+      "label": "Ontario Social Studies Grade 1 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g1.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["1"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g2",
+      "label": "Ontario Social Studies Grade 2 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g2.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["2"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g3",
+      "label": "Ontario Social Studies Grade 3 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g3.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["3"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g4",
+      "label": "Ontario Social Studies Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["4"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g5",
+      "label": "Ontario Social Studies Grade 5 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g5.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["5"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-social-studies-g6",
+      "label": "Ontario Social Studies Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-social-studies-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["social-studies"],
+        "gradeLevels": ["6"]
+      },
+      "standardCount": 6,
+      "aliasCount": 0
     }
   ]
 }

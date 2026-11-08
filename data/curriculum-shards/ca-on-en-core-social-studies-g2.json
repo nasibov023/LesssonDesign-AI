@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-social-studies-g2",
+    "label": "Ontario Social Studies Grade 2 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "2",
+    "gradeBand": "Grade 2",
+    "gradeLabel": "Grade 2",
+    "courseCode": "SOC2",
+    "courseLabel": "Social Studies",
+    "courseTitle": "Social Studies",
+    "subject": "social-studies",
+    "subjectAreaId": "social-studies",
+    "subjectId": "social-studies"
+  },
+  "documents": {
+    "ontario-social-studies-g2-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g2-ss",
+      "documentTitle": "Ontario Social Studies Grade 2 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-social-studies-g2-a1",
+      "unit": "Heritage and Identity: Changing Family and Community Traditions",
+      "strand": "Heritage and Identity: Changing Family and Community Traditions",
+      "standardCode": "A1",
+      "summaryText": "compare some significant traditions and celebrations among diverse groups and at different times, including those of First Nations, Métis, and/or Inuit, and identify some of the reasons for changes in these traditions/celebrations",
+      "officialOutcomeText": "compare some significant traditions and celebrations among diverse groups and at different times, including those of First Nations, Métis, and/or Inuit, and identify some of the reasons for changes in these traditions/celebrations",
+      "curriculumFocus": "Heritage and Identity: Changing Family and Community Traditions",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g2-a2",
+      "unit": "Heritage and Identity: Changing Family and Community Traditions",
+      "strand": "Heritage and Identity: Changing Family and Community Traditions",
+      "standardCode": "A2",
+      "summaryText": "use the social studies inquiry process to investigate some of the past and present traditions and celebrations within their own family and the communities to which they belong",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some of the past and present traditions and celebrations within their own family and the communities to which they belong",
+      "curriculumFocus": "Heritage and Identity: Changing Family and Community Traditions",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g2-a3",
+      "unit": "Heritage and Identity: Changing Family and Community Traditions",
+      "strand": "Heritage and Identity: Changing Family and Community Traditions",
+      "standardCode": "A3",
+      "summaryText": "describe some of the major groups in their community, including First Nations, Métis, and/or Inuit, other diverse communities, and different types of families, and some of the ways in which traditions and heritage are passed on by such groups",
+      "officialOutcomeText": "describe some of the major groups in their community, including First Nations, Métis, and/or Inuit, other diverse communities, and different types of families, and some of the ways in which traditions and heritage are passed on by such groups",
+      "curriculumFocus": "Heritage and Identity: Changing Family and Community Traditions",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g2-b1",
+      "unit": "People and Environments: Global Communities",
+      "strand": "People and Environments: Global Communities",
+      "standardCode": "B1",
+      "summaryText": "describe some similarities and differences in the ways in which people in two or more communities in different parts of the world meet their needs and have adapted to the location, climate, and physical features of their regions",
+      "officialOutcomeText": "describe some similarities and differences in the ways in which people in two or more communities in different parts of the world meet their needs and have adapted to the location, climate, and physical features of their regions",
+      "curriculumFocus": "People and Environments: Global Communities",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g2-b2",
+      "unit": "People and Environments: Global Communities",
+      "strand": "People and Environments: Global Communities",
+      "standardCode": "B2",
+      "summaryText": "use the social studies inquiry process to investigate aspects of the interrelationship between the natural environment, including the climate, of selected communities, including at least one contemporary First Nation, Métis, or Inuit community, and the ways in which people in those communities live",
+      "officialOutcomeText": "use the social studies inquiry process to investigate aspects of the interrelationship between the natural environment, including the climate, of selected communities, including at least one contemporary First Nation, Métis, or Inuit community, and the ways in which people in those communities live",
+      "curriculumFocus": "People and Environments: Global Communities",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g2-b3",
+      "unit": "People and Environments: Global Communities",
+      "strand": "People and Environments: Global Communities",
+      "standardCode": "B3",
+      "summaryText": "identify and locate various physical features and selected communities around the world, including at least one contemporary First Nation, Métis, or Inuit community, and describe some aspects of peoples ways of life in those communities",
+      "officialOutcomeText": "identify and locate various physical features and selected communities around the world, including at least one contemporary First Nation, Métis, or Inuit community, and describe some aspects of peoples ways of life in those communities",
+      "curriculumFocus": "People and Environments: Global Communities",
+      "sourceDocumentId": "ontario-social-studies-g2-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}
