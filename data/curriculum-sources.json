@@ -600,6 +600,28 @@
       "subject": "social-studies",
       "label": "Ontario Social Studies",
       "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g1-ss"
+    },
+    {
+      "id": "ca-on-en-core-history",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "history",
+      "subject": "history",
+      "label": "Ontario History",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/history-g7"
+    },
+    {
+      "id": "ca-on-en-core-geography",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "geography",
+      "subject": "geography",
+      "label": "Ontario Geography",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g7-geo"
     }
   ]
 }

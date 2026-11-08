@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-geography-g7",
+    "label": "Ontario Geography Grade 7 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "7",
+    "gradeBand": "Grade 7",
+    "gradeLabel": "Grade 7",
+    "courseCode": "GEO7",
+    "courseLabel": "Geography",
+    "courseTitle": "Geography",
+    "subject": "geography",
+    "subjectAreaId": "geography",
+    "subjectId": "geography"
+  },
+  "documents": {
+    "ontario-geography-g7-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g7-geo",
+      "documentTitle": "Ontario Geography Grade 7 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-geography-g7-a1",
+      "unit": "Physical Patterns in a Changing World",
+      "strand": "Physical Patterns in a Changing World",
+      "standardCode": "A1",
+      "summaryText": "analyse some challenges and opportunities presented by the physical environment and ways in which people have responded to them",
+      "officialOutcomeText": "analyse some challenges and opportunities presented by the physical environment and ways in which people have responded to them",
+      "curriculumFocus": "Physical Patterns in a Changing World",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g7-a2",
+      "unit": "Physical Patterns in a Changing World",
+      "strand": "Physical Patterns in a Changing World",
+      "standardCode": "A2",
+      "summaryText": "use the geographic inquiry process to investigate the impact of natural events and/or human activities that change the physical environment, exploring the impact from a geographic perspective",
+      "officialOutcomeText": "use the geographic inquiry process to investigate the impact of natural events and/or human activities that change the physical environment, exploring the impact from a geographic perspective",
+      "curriculumFocus": "Physical Patterns in a Changing World",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g7-a3",
+      "unit": "Physical Patterns in a Changing World",
+      "strand": "Physical Patterns in a Changing World",
+      "standardCode": "A3",
+      "summaryText": "demonstrate an understanding of significant patterns in Earth’s physical features and of some natural processes and human activities that create and change those features",
+      "officialOutcomeText": "demonstrate an understanding of significant patterns in Earth’s physical features and of some natural processes and human activities that create and change those features",
+      "curriculumFocus": "Physical Patterns in a Changing World",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g7-b1",
+      "unit": "Natural Resources around the World: Use and Sustainability",
+      "strand": "Natural Resources around the World: Use and Sustainability",
+      "standardCode": "B1",
+      "summaryText": "analyse aspects of the extraction/harvesting and use of natural resources in different regions of the world, and assess ways of preserving these resources",
+      "officialOutcomeText": "analyse aspects of the extraction/harvesting and use of natural resources in different regions of the world, and assess ways of preserving these resources",
+      "curriculumFocus": "Natural Resources around the World: Use and Sustainability",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g7-b2",
+      "unit": "Natural Resources around the World: Use and Sustainability",
+      "strand": "Natural Resources around the World: Use and Sustainability",
+      "standardCode": "B2",
+      "summaryText": "use the geographic inquiry process to investigate issues related to the impact of the extraction/harvesting and/or use of natural resources around the world from a geographic perspective",
+      "officialOutcomeText": "use the geographic inquiry process to investigate issues related to the impact of the extraction/harvesting and/or use of natural resources around the world from a geographic perspective",
+      "curriculumFocus": "Natural Resources around the World: Use and Sustainability",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-geography-g7-b3",
+      "unit": "Natural Resources around the World: Use and Sustainability",
+      "strand": "Natural Resources around the World: Use and Sustainability",
+      "standardCode": "B3",
+      "summaryText": "demonstrate an understanding of the sources and use of different types of natural resources and of some of the effects of the extraction/harvesting and use of these resources",
+      "officialOutcomeText": "demonstrate an understanding of the sources and use of different types of natural resources and of some of the effects of the extraction/harvesting and use of these resources",
+      "curriculumFocus": "Natural Resources around the World: Use and Sustainability",
+      "sourceDocumentId": "ontario-geography-g7-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Geography",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}
