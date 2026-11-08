@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-social-studies-g4",
+    "label": "Ontario Social Studies Grade 4 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "4",
+    "gradeBand": "Grade 4",
+    "gradeLabel": "Grade 4",
+    "courseCode": "SOC4",
+    "courseLabel": "Social Studies",
+    "courseTitle": "Social Studies",
+    "subject": "social-studies",
+    "subjectAreaId": "social-studies",
+    "subjectId": "social-studies"
+  },
+  "documents": {
+    "ontario-social-studies-g4-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g4-ss",
+      "documentTitle": "Ontario Social Studies Grade 4 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-social-studies-g4-a1",
+      "unit": "Heritage and Identity: Early Societies to 1500 CE",
+      "strand": "Heritage and Identity: Early Societies to 1500 CE",
+      "standardCode": "A1",
+      "summaryText": "compare key aspects of life in a few early societies (to 1500), including at least one First Nation and one Inuit society, each from a different region and era and representing a different culture, and describe some key similarities and differences between these early societies and present-day Canadian society",
+      "officialOutcomeText": "compare key aspects of life in a few early societies (to 1500), including at least one First Nation and one Inuit society, each from a different region and era and representing a different culture, and describe some key similarities and differences between these early societies and present-day Canadian society",
+      "curriculumFocus": "Heritage and Identity: Early Societies to 1500 CE",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g4-a2",
+      "unit": "Heritage and Identity: Early Societies to 1500 CE",
+      "strand": "Heritage and Identity: Early Societies to 1500 CE",
+      "standardCode": "A2",
+      "summaryText": "use the social studies inquiry process to investigate ways of life and relationships with the environment in a few early societies (to 1500), including at least one First Nation and one Inuit society, with an emphasis on aspects of the interrelationship between the environment and life in those societies",
+      "officialOutcomeText": "use the social studies inquiry process to investigate ways of life and relationships with the environment in a few early societies (to 1500), including at least one First Nation and one Inuit society, with an emphasis on aspects of the interrelationship between the environment and life in those societies",
+      "curriculumFocus": "Heritage and Identity: Early Societies to 1500 CE",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g4-a3",
+      "unit": "Heritage and Identity: Early Societies to 1500 CE",
+      "strand": "Heritage and Identity: Early Societies to 1500 CE",
+      "standardCode": "A3",
+      "summaryText": "demonstrate an understanding of key aspects of a few early societies (to 1500), including at least one First Nation and one Inuit society, each from a different region and era and representing a different culture, with reference to their political and social organization, daily life, and relationships with the environment and with each other",
+      "officialOutcomeText": "demonstrate an understanding of key aspects of a few early societies (to 1500), including at least one First Nation and one Inuit society, each from a different region and era and representing a different culture, with reference to their political and social organization, daily life, and relationships with the environment and with each other",
+      "curriculumFocus": "Heritage and Identity: Early Societies to 1500 CE",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g4-b1",
+      "unit": "People and Environments: Political and Physical Regions of Canada",
+      "strand": "People and Environments: Political and Physical Regions of Canada",
+      "standardCode": "B1",
+      "summaryText": "assess some key ways in which industrial development and the natural environment affect each other in two or more political and/or physical regions of Canada",
+      "officialOutcomeText": "assess some key ways in which industrial development and the natural environment affect each other in two or more political and/or physical regions of Canada",
+      "curriculumFocus": "People and Environments: Political and Physical Regions of Canada",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g4-b2",
+      "unit": "People and Environments: Political and Physical Regions of Canada",
+      "strand": "People and Environments: Political and Physical Regions of Canada",
+      "standardCode": "B2",
+      "summaryText": "use the social studies inquiry process to investigate some issues and challenges associated with balancing human needs/wants and activities with environmental stewardship in one or more of the political and/or physical regions of Canada",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some issues and challenges associated with balancing human needs/wants and activities with environmental stewardship in one or more of the political and/or physical regions of Canada",
+      "curriculumFocus": "People and Environments: Political and Physical Regions of Canada",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g4-b3",
+      "unit": "People and Environments: Political and Physical Regions of Canada",
+      "strand": "People and Environments: Political and Physical Regions of Canada",
+      "standardCode": "B3",
+      "summaryText": "identify Canada’s political and physical regions, and describe their main characteristics and some significant activities that take place in them",
+      "officialOutcomeText": "identify Canada’s political and physical regions, and describe their main characteristics and some significant activities that take place in them",
+      "curriculumFocus": "People and Environments: Political and Physical Regions of Canada",
+      "sourceDocumentId": "ontario-social-studies-g4-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

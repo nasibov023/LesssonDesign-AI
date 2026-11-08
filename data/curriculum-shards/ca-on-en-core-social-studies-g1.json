@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-social-studies-g1",
+    "label": "Ontario Social Studies Grade 1 curriculum",
+    "updated": "2026-11-03"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "1",
+    "gradeBand": "Grade 1",
+    "gradeLabel": "Grade 1",
+    "courseCode": "SOC1",
+    "courseLabel": "Social Studies",
+    "courseTitle": "Social Studies",
+    "subject": "social-studies",
+    "subjectAreaId": "social-studies",
+    "subjectId": "social-studies"
+  },
+  "documents": {
+    "ontario-social-studies-g1-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g1-ss",
+      "documentTitle": "Ontario Social Studies Grade 1 - Overall Expectations",
+      "documentVersion": "Ontario Social Studies, History, and Geography Curriculum (2026)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-social-studies-g1-a1",
+      "unit": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "strand": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "standardCode": "A1",
+      "summaryText": "describe some of the ways in which people’s roles, relationships with, and responsibilities to others and the world around them relate to who they are and what their situation is, and how and why changes in circumstances might affect people’s roles, relationships, and responsibilities as well as their sense of self",
+      "officialOutcomeText": "describe some of the ways in which people’s roles, relationships with, and responsibilities to others and the world around them relate to who they are and what their situation is, and how and why changes in circumstances might affect people’s roles, relationships, and responsibilities as well as their sense of self",
+      "curriculumFocus": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 10,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g1-a2",
+      "unit": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "strand": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "standardCode": "A2",
+      "summaryText": "use the social studies inquiry process to investigate some aspects of the interrelationship between their identity/sense of self, their different roles, relationships, and responsibilities, and various situations in their daily lives",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some aspects of the interrelationship between their identity/sense of self, their different roles, relationships, and responsibilities, and various situations in their daily lives",
+      "curriculumFocus": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 20,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g1-a3",
+      "unit": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "strand": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "standardCode": "A3",
+      "summaryText": "demonstrate an understanding that they and other people experience a range of different roles, relationships, and responsibilities, and that all people should be treated with respect, regardless of their roles, relationships, and responsibilities",
+      "officialOutcomeText": "demonstrate an understanding that they and other people experience a range of different roles, relationships, and responsibilities, and that all people should be treated with respect, regardless of their roles, relationships, and responsibilities",
+      "curriculumFocus": "Heritage and Identity: Our Changing Roles and Responsibilities",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 30,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g1-b1",
+      "unit": "People and Environments: The Local Community",
+      "strand": "People and Environments: The Local Community",
+      "standardCode": "B1",
+      "summaryText": "describe some aspects of the interrelationship between people and the natural and built features of their community, with a focus on how the features of and services in the community meet people’s needs",
+      "officialOutcomeText": "describe some aspects of the interrelationship between people and the natural and built features of their community, with a focus on how the features of and services in the community meet people’s needs",
+      "curriculumFocus": "People and Environments: The Local Community",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 40,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g1-b2",
+      "unit": "People and Environments: The Local Community",
+      "strand": "People and Environments: The Local Community",
+      "standardCode": "B2",
+      "summaryText": "use the social studies inquiry process to investigate some aspects of the interrelationship between people and different natural and built features of their local community, with a focus on significant short- and long-term effects of this interrelationship",
+      "officialOutcomeText": "use the social studies inquiry process to investigate some aspects of the interrelationship between people and different natural and built features of their local community, with a focus on significant short- and long-term effects of this interrelationship",
+      "curriculumFocus": "People and Environments: The Local Community",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 50,
+      "aliases": []
+    },
+    {
+      "id": "ca-on-social-studies-g1-b3",
+      "unit": "People and Environments: The Local Community",
+      "strand": "People and Environments: The Local Community",
+      "standardCode": "B3",
+      "summaryText": "describe significant aspects of their community, with reference to different areas, services, and natural and built features, demonstrating an understanding of some basic ways of describing location and measuring distance",
+      "officialOutcomeText": "describe significant aspects of their community, with reference to different areas, services, and natural and built features, demonstrating an understanding of some basic ways of describing location and measuring distance",
+      "curriculumFocus": "People and Environments: The Local Community",
+      "sourceDocumentId": "ontario-social-studies-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social Studies",
+      "moduleSequence": 60,
+      "aliases": []
+    }
+  ],
+  "aliases": []
+}

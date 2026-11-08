@@ -11,21 +11,60 @@
       "label": "Canada"
     }
   ],
- "gradeLevels": [
-  { "id": "K", "label": "Kindergarten" },
-  { "id": "1", "label": "Grade 1" },
-  { "id": "2", "label": "Grade 2" },
-  { "id": "3", "label": "Grade 3" },
-  { "id": "4", "label": "Grade 4" },
-  { "id": "5", "label": "Grade 5" },
-  { "id": "6", "label": "Grade 6" },
-  { "id": "7", "label": "Grade 7" },
-  { "id": "8", "label": "Grade 8" },
-  { "id": "9", "label": "Grade 9" },
-  { "id": "10", "label": "Grade 10" },
-  { "id": "11", "label": "Grade 11" },
-  { "id": "12", "label": "Grade 12" }
-],
+  "gradeLevels": [
+    {
+      "id": "K",
+      "label": "Kindergarten"
+    },
+    {
+      "id": "1",
+      "label": "Grade 1"
+    },
+    {
+      "id": "2",
+      "label": "Grade 2"
+    },
+    {
+      "id": "3",
+      "label": "Grade 3"
+    },
+    {
+      "id": "4",
+      "label": "Grade 4"
+    },
+    {
+      "id": "5",
+      "label": "Grade 5"
+    },
+    {
+      "id": "6",
+      "label": "Grade 6"
+    },
+    {
+      "id": "7",
+      "label": "Grade 7"
+    },
+    {
+      "id": "8",
+      "label": "Grade 8"
+    },
+    {
+      "id": "9",
+      "label": "Grade 9"
+    },
+    {
+      "id": "10",
+      "label": "Grade 10"
+    },
+    {
+      "id": "11",
+      "label": "Grade 11"
+    },
+    {
+      "id": "12",
+      "label": "Grade 12"
+    }
+  ],
   "subjects": [
     {
       "id": "science",
@@ -138,13 +177,13 @@
       "sourceUrl": "https://www.alberta.ca/curriculum-and-programs-of-study"
     },
     {
-  "id": "ca-on",
-  "country": "CA",
-  "region": "Ontario",
-  "authority": "Ontario Ministry of Education",
-  "status": "in-progress",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum"
-}
+      "id": "ca-on",
+      "country": "CA",
+      "region": "Ontario",
+      "authority": "Ontario Ministry of Education",
+      "status": "in-progress",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum"
+    }
   ],
   "frameworks": [
     {
@@ -156,13 +195,13 @@
       "sourceUrl": "https://www.alberta.ca/curriculum-and-programs-of-study"
     },
     {
-  "id": "ca-on-curriculum",
-  "country": "CA",
-  "jurisdictionId": "ca-on",
-  "label": "Ontario Curriculum",
-  "status": "in-progress",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum"
-}
+      "id": "ca-on-curriculum",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "label": "Ontario Curriculum",
+      "status": "in-progress",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum"
+    }
   ],
   "directorySources": [
     {
@@ -244,38 +283,38 @@
   ],
   "curriculumTracks": [
     {
-  "id": "ca-on-en-core-mathematics",
-  "country": "CA",
-  "jurisdictionId": "ca-on",
-  "frameworkId": "ca-on-curriculum",
-  "programId": "en-core",
-  "subjectAreaId": "mathematics",
-  "subject": "mathematics",
-  "label": "Ontario Mathematics",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics"
-},
+      "id": "ca-on-en-core-mathematics",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "mathematics",
+      "subject": "mathematics",
+      "label": "Ontario Mathematics",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics"
+    },
     {
-"id": "ca-on-en-core-science",
-  "country": "CA",
-  "jurisdictionId": "ca-on",
-  "frameworkId": "ca-on-curriculum",
-  "programId": "en-core",
-  "subjectAreaId": "science",
-  "subject": "science",
-  "label": "Ontario Science and Technology",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/science-technology"
-      },
+      "id": "ca-on-en-core-science",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "science",
+      "subject": "science",
+      "label": "Ontario Science and Technology",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/science-technology"
+    },
     {
-  "id": "ca-on-en-core-language",
-  "country": "CA",
-  "jurisdictionId": "ca-on",
-  "frameworkId": "ca-on-curriculum",
-  "programId": "en-core",
-  "subjectAreaId": "language",
-  "subject": "language",
-  "label": "Ontario Language",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-language"
-},
+      "id": "ca-on-en-core-language",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "language",
+      "subject": "language",
+      "label": "Ontario Language",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-language"
+    },
     {
       "id": "ca-ab-en-core-science",
       "country": "CA",
@@ -550,6 +589,17 @@
       "subject": "environmental-outdoor-education",
       "label": "Environmental and Outdoor Education",
       "sourceUrl": "https://curriculum.learnalberta.ca/curriculum/en/pos/ENV"
+    },
+    {
+      "id": "ca-on-en-core-social-studies",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "social-studies",
+      "subject": "social-studies",
+      "label": "Ontario Social Studies",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g1-ss"
     }
   ]
 }
