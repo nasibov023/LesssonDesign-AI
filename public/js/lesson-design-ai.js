@@ -4946,7 +4946,10 @@ function getCurriculumPieceDisplayTitle(item) {
     if (isCtfItem(item) && outcomeNumber) {
         return 'Learning Outcome ' + outcomeNumber;
     }
-
+	
+if (isSocialStudiesItem(item) && outcomeNumber) {
+    return 'Specific Outcome ' + outcomeNumber;
+}
 
 		if (isEnvironmentalOutdoorItem(item)) {
 			var environmentalOutdoorTitle = getEnvironmentalOutdoorDisplayTitle(code);
