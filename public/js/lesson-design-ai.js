@@ -5223,7 +5223,6 @@ function getCurriculumPieceDisplayTitle(item) {
     if (item && item.jurisdictionId === 'ca-on') {
         return '';
     }
-		function getMatchingStandards
 		if (item.sourceStatus === 'prototype') {
 			return 'Legacy prototype fallback';
 		}
