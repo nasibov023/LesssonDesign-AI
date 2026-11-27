@@ -37,6 +37,19 @@
   },
   "standards": [
     {
+      "id": "ca-on-mathematics-g1-a1",
+      "unit": "Social-Emotional Learning (SEL) Skills in Mathematics and the Mathematical Processes",
+      "strand": "Social-Emotional Learning (SEL) Skills in Mathematics and the Mathematical Processes",
+      "standardCode": "A1",
+      "summaryText": "apply, to the best of their ability, a variety of social-emotional learning skills to support their use of the mathematical processes and their learning in connection with the expectations in the other five strands of the mathematics curriculum",
+      "officialOutcomeText": "apply, to the best of their ability, a variety of social-emotional learning skills to support their use of the mathematical processes and their learning in connection with the expectations in the other five strands of the mathematics curriculum",
+      "curriculumFocus": "Social-Emotional Learning (SEL) Skills in Mathematics and the Mathematical Processes",
+      "sourceDocumentId": "ontario-math-g1-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Mathematics",
+      "moduleSequence": 0
+    },
+    {
       "id": "ca-on-mathematics-g1-b1",
       "unit": "Number",
       "strand": "Number",
@@ -178,19 +191,6 @@
       "moduleType": "outcome",
       "moduleLabel": "Mathematics",
       "moduleSequence": 100
-    },
-    {
-      "id": "ca-on-mathematics-g1-a1",
-      "unit": "Social-Emotional Learning and Mathematical Processes",
-      "strand": "Social-Emotional Learning and Mathematical Processes",
-      "standardCode": "A1",
-      "summaryText": "apply, to the best of their ability, a variety of social-emotional learning skills to support their use of the mathematical processes and their learning in connection with the expectations in the other five strands of the mathematics curriculum",
-      "officialOutcomeText": "apply, to the best of their ability, a variety of social-emotional learning skills to support their use of the mathematical processes and their learning in connection with the expectations in the other five strands of the mathematics curriculum",
-      "curriculumFocus": "Social-Emotional Learning (SEL) Skills and the Mathematical Processes",
-      "sourceDocumentId": "ontario-math-g1-all-strands",
-      "moduleType": "outcome",
-      "moduleLabel": "Mathematics",
-      "moduleSequence": 110
     }
   ],
   "aliases": []

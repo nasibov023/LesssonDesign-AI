@@ -1191,9 +1191,18 @@
 			return /^science/i.test(String(item && item.subject || '')) || isLanguageArtsItem(item) || isCtsKnowledgeEmployabilityItem(item) || isSocialStudiesItem(item) || isEnvironmentalOutdoorItem(item) || isHealthItem(item) || (isFineArtsItem(item) && !isDramaItem(item) && !isMusicItem(item));
 		}
 
-		function formatCurriculumCount(count, selectedCount) {
-			return count + ' piece' + (count === 1 ? '' : 's') + (selectedCount ? ' | ' + selectedCount + ' selected' : '');
-		}
+		
+function formatCurriculumCount(count, selectedCount) {
+    var tracks = getCurriculumTracks(state.curriculum);
+    var isOntario = tracks.some(function (track) {
+        return track.jurisdictionId === 'ca-on';
+    });
+    var label = isOntario ? 'expectation' : 'outcome';
+
+    return count + ' ' + label + (count === 1 ? '' : 's') +
+        (selectedCount ? ' | ' + selectedCount + ' selected' : '');
+}
+
 
 		function getCurriculumSubjectGroupKey(item) {
 			return [
@@ -4923,19 +4932,24 @@ output.curriculum.framework =
 		return item.standardCode || item.code || 'Curriculum piece';
 	}
 
-	function getCurriculumPieceDisplayTitle(item) {
-		var locatorLabel = getCurriculumLocatorLeaf(item);
-		var code = getCurriculumPieceCode(item);
-		var outcomeNumber = getCurriculumOutcomeNumber(code);
-		var familyLabel = getCurriculumOutcomeFamilyLabel(item);
 
-		if (isCtfItem(item) && outcomeNumber) {
-			return 'Learning Outcome ' + outcomeNumber;
-		}
+function getCurriculumPieceDisplayTitle(item) {
+    var locatorLabel = getCurriculumLocatorLeaf(item);
+    var code = getCurriculumPieceCode(item);
+    var outcomeNumber = getCurriculumOutcomeNumber(code);
+    var familyLabel = getCurriculumOutcomeFamilyLabel(item);
 
-		if (isSocialStudiesItem(item) && outcomeNumber) {
-			return 'Specific Outcome ' + outcomeNumber;
-		}
+    if (item && item.jurisdictionId === 'ca-on' && /^[A-Z]\d+$/.test(String(code))) {
+        return 'Overall Expectation ' + code;
+    }
+
+    if (isCtfItem(item) && outcomeNumber) {
+        return 'Learning Outcome ' + outcomeNumber;
+    }
+	
+if (isSocialStudiesItem(item) && outcomeNumber) {
+    return 'Specific Outcome ' + outcomeNumber;
+}
 
 		if (isEnvironmentalOutdoorItem(item)) {
 			var environmentalOutdoorTitle = getEnvironmentalOutdoorDisplayTitle(code);
@@ -5208,6 +5222,10 @@ output.curriculum.framework =
 	}
 
 	function getStandardStatusLabel(item) {
+		
+    if (item && item.jurisdictionId === 'ca-on') {
+        return '';
+    }
 		if (item.sourceStatus === 'prototype') {
 			return 'Legacy prototype fallback';
 		}
