@@ -2696,6 +2696,21 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-arts-g4",
+      "label": "Ontario The Arts Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-arts-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["arts"],
+        "gradeLevels": ["4"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
