@@ -1188,6 +1188,9 @@
 		}
 
 		function shouldSeparateCurriculumSubsections(item) {
+            if (item && item.jurisdictionId === 'ca-on' && item.subject === 'arts') {
+                return false;
+            }
 			return /^science/i.test(String(item && item.subject || '')) || isLanguageArtsItem(item) || isCtsKnowledgeEmployabilityItem(item) || isSocialStudiesItem(item) || isEnvironmentalOutdoorItem(item) || isHealthItem(item) || (isFineArtsItem(item) && !isDramaItem(item) && !isMusicItem(item));
 		}
 

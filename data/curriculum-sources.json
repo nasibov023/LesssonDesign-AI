@@ -634,7 +634,17 @@
   "subject": "kindergarten",
   "label": "Ontario Kindergarten",
   "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten"
-}
-
+},
+    {
+      "id": "ca-on-en-core-arts",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "arts",
+      "subject": "arts",
+      "label": "Ontario The Arts",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-arts"
+    }
   ]
 }
