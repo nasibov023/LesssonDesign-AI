@@ -2741,6 +2741,21 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-arts-g7",
+      "label": "Ontario The Arts Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-arts-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["arts"],
+        "gradeLevels": ["7"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
