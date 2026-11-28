@@ -3580,6 +3580,31 @@
       },
       "standardCount": 10,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-geography-cgc1w",
+      "label": "Ontario Exploring Canadian Geography Grade 9 CGC1W curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-geography-cgc1w.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "geography"
+        ],
+        "gradeLevels": [
+          "9"
+        ]
+      },
+      "standardCount": 10,
+      "aliasCount": 0
     }
   ]
 }
