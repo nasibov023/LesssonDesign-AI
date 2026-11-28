@@ -3605,6 +3605,31 @@
       },
       "standardCount": 10,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-health-physical-education-ppl1o",
+      "label": "Ontario Healthy Active Living Education Grade 9 PPL1O curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-health-physical-education-ppl1o.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "health-physical-education"
+        ],
+        "gradeLevels": [
+          "9"
+        ]
+      },
+      "standardCount": 9,
+      "aliasCount": 0
     }
   ]
 }
