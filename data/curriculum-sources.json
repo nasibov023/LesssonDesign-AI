@@ -623,18 +623,17 @@
       "label": "Ontario Geography",
       "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-sshg/grades/g7-geo"
     },
-
-{
-  "id": "ca-on-en-core-kindergarten",
-  "country": "CA",
-  "jurisdictionId": "ca-on",
-  "frameworkId": "ca-on-curriculum",
-  "programId": "en-core",
-  "subjectAreaId": "kindergarten",
-  "subject": "kindergarten",
-  "label": "Ontario Kindergarten",
-  "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten"
-},
+    {
+      "id": "ca-on-en-core-kindergarten",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "kindergarten",
+      "subject": "kindergarten",
+      "label": "Ontario Kindergarten",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten"
+    },
     {
       "id": "ca-on-en-core-arts",
       "country": "CA",
@@ -656,6 +655,17 @@
       "subject": "health-physical-education",
       "label": "Ontario Health and Physical Education",
       "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-health-and-physical-education"
+    },
+    {
+      "id": "ca-on-en-core-french",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "french-as-a-second-language",
+      "subject": "french-as-a-second-language",
+      "label": "Ontario Core French",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-fsl/grades-list?language_program=core_french"
     }
   ]
 }

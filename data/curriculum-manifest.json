@@ -2107,27 +2107,27 @@
       "aliasCount": 0
     },
     {
-  "id": "ca-on-en-core-mathematics-g7",
-  "label": "Ontario Mathematics Grade 7 curriculum pieces",
-  "path": "data/curriculum-shards/ca-on-en-core-mathematics-g7.json",
-  "filters": {
-    "country": "CA",
-    "jurisdictionIds": [
-      "ca-on"
-    ],
-    "programIds": [
-      "en-core"
-    ],
-    "frameworkIds": [
-      "ca-on-curriculum"
-    ],
-    "subjectIds": [
-      "mathematics"
-    ],
-    "gradeLevels": [
-      "7"
-    ]
-  },
+      "id": "ca-on-en-core-mathematics-g7",
+      "label": "Ontario Mathematics Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-mathematics-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
+      },
       "standardCount": 12,
       "aliasCount": 0
     },
@@ -2162,11 +2162,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g6.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["6"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2177,11 +2187,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g5.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["5"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2192,11 +2212,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g4.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["4"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2207,11 +2237,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g3.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["3"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "3"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2222,11 +2262,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g2.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["2"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "2"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2237,11 +2287,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-mathematics-g1.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["mathematics"],
-        "gradeLevels": ["1"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "mathematics"
+        ],
+        "gradeLevels": [
+          "1"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2252,11 +2312,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g1.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["1"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "1"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2267,11 +2337,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g2.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["2"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "2"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2282,11 +2362,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g3.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["3"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "3"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2297,11 +2387,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g4.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["4"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2312,11 +2412,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g5.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["5"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2327,11 +2437,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g6.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["6"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2342,11 +2462,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g7.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["7"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2357,11 +2487,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-language-g8.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["language"],
-        "gradeLevels": ["8"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "language"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2372,11 +2512,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g1.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["1"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "1"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2387,11 +2537,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g2.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["2"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "2"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2402,11 +2562,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g3.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["3"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "3"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2417,11 +2587,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g4.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["4"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2432,11 +2612,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g5.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["5"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2447,11 +2637,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g6.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["6"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2462,11 +2662,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g7.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["7"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2477,11 +2687,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-science-g8.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["science"],
-        "gradeLevels": ["8"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "science"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
       },
       "standardCount": 11,
       "aliasCount": 0
@@ -2492,11 +2712,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g1.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["1"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "1"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2507,11 +2737,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g2.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["2"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "2"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2522,11 +2762,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g3.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["3"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "3"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2537,11 +2787,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g4.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["4"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2552,11 +2812,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g5.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["5"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2567,11 +2837,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-social-studies-g6.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["social-studies"],
-        "gradeLevels": ["6"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "social-studies"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2582,11 +2862,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-history-g7.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["history"],
-        "gradeLevels": ["7"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "history"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2597,11 +2887,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-history-g8.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["history"],
-        "gradeLevels": ["8"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "history"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2612,11 +2912,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-geography-g7.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["geography"],
-        "gradeLevels": ["7"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "geography"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
@@ -2627,42 +2937,71 @@
       "path": "data/curriculum-shards/ca-on-en-core-geography-g8.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["geography"],
-        "gradeLevels": ["8"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "geography"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
       },
       "standardCount": 6,
       "aliasCount": 0
     },
-
-{
-  "id": "ca-on-en-core-kindergarten-jk-sk",
-  "label": "Ontario Kindergarten curriculum expectations",
-  "path": "data/curriculum-shards/ca-on-en-core-kindergarten-jk-sk.json",
-  "filters": {
-    "country": "CA",
-    "jurisdictionIds": ["ca-on"],
-    "programIds": ["en-core"],
-    "frameworkIds": ["ca-on-curriculum"],
-    "subjectIds": ["kindergarten"],
-    "gradeLevels": ["K"]
-  },
-  "standardCount": 25,
-  "aliasCount": 0
-},
+    {
+      "id": "ca-on-en-core-kindergarten-jk-sk",
+      "label": "Ontario Kindergarten curriculum expectations",
+      "path": "data/curriculum-shards/ca-on-en-core-kindergarten-jk-sk.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "kindergarten"
+        ],
+        "gradeLevels": [
+          "K"
+        ]
+      },
+      "standardCount": 25,
+      "aliasCount": 0
+    },
     {
       "id": "ca-on-en-core-arts-g1",
       "label": "Ontario The Arts Grade 1 curriculum pieces",
       "path": "data/curriculum-shards/ca-on-en-core-arts-g1.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["1"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "1"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2673,11 +3012,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g2.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["2"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "2"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2688,11 +3037,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g3.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["3"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "3"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2703,11 +3062,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g4.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["4"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2718,11 +3087,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g5.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["5"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2733,11 +3112,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g6.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["6"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2748,11 +3137,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g7.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["7"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2763,11 +3162,21 @@
       "path": "data/curriculum-shards/ca-on-en-core-arts-g8.json",
       "filters": {
         "country": "CA",
-        "jurisdictionIds": ["ca-on"],
-        "programIds": ["en-core"],
-        "frameworkIds": ["ca-on-curriculum"],
-        "subjectIds": ["arts"],
-        "gradeLevels": ["8"]
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "arts"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
       },
       "standardCount": 12,
       "aliasCount": 0
@@ -2970,6 +3379,131 @@
         ]
       },
       "standardCount": 9,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-french-g4",
+      "label": "Ontario Core French Grade 4 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-french-g4.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "french-as-a-second-language"
+        ],
+        "gradeLevels": [
+          "4"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-french-g5",
+      "label": "Ontario Core French Grade 5 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-french-g5.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "french-as-a-second-language"
+        ],
+        "gradeLevels": [
+          "5"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-french-g6",
+      "label": "Ontario Core French Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-french-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "french-as-a-second-language"
+        ],
+        "gradeLevels": [
+          "6"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-french-g7",
+      "label": "Ontario Core French Grade 7 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-french-g7.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "french-as-a-second-language"
+        ],
+        "gradeLevels": [
+          "7"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-french-g8",
+      "label": "Ontario Core French Grade 8 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-french-g8.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "french-as-a-second-language"
+        ],
+        "gradeLevels": [
+          "8"
+        ]
+      },
+      "standardCount": 12,
       "aliasCount": 0
     }
   ]
