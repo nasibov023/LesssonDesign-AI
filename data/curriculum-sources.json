@@ -165,6 +165,10 @@
     {
       "id": "environmental-outdoor-education",
       "label": "Environmental and Outdoor Education"
+    },
+    {
+      "id": "english",
+      "label": "English"
     }
   ],
   "jurisdictions": [
@@ -279,6 +283,11 @@
       "id": "environmental-outdoor-education",
       "label": "Environmental and Outdoor Education",
       "featuredSubject": "environmental-outdoor-education"
+    },
+    {
+      "id": "english",
+      "label": "English",
+      "featuredSubject": "english"
     }
   ],
   "curriculumTracks": [
@@ -666,6 +675,17 @@
       "subject": "french-as-a-second-language",
       "label": "Ontario Core French",
       "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-fsl/grades-list?language_program=core_french"
+    },
+    {
+      "id": "ca-on-en-core-english",
+      "country": "CA",
+      "jurisdictionId": "ca-on",
+      "frameworkId": "ca-on-curriculum",
+      "programId": "en-core",
+      "subjectAreaId": "english",
+      "subject": "english",
+      "label": "Ontario English",
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-english/courses/enl1w/strands"
     }
   ]
 }

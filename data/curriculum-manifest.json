@@ -3530,6 +3530,31 @@
       },
       "standardCount": 14,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-english-enl1w",
+      "label": "Ontario English Grade 9 ENL1W curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-english-enl1w.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": [
+          "ca-on"
+        ],
+        "programIds": [
+          "en-core"
+        ],
+        "frameworkIds": [
+          "ca-on-curriculum"
+        ],
+        "subjectIds": [
+          "english"
+        ],
+        "gradeLevels": [
+          "9"
+        ]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
