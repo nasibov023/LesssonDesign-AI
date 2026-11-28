@@ -2635,6 +2635,22 @@
       },
       "standardCount": 6,
       "aliasCount": 0
-    }
+    },
+
+{
+  "id": "ca-on-en-core-kindergarten-jk-sk",
+  "label": "Ontario Kindergarten curriculum expectations",
+  "path": "data/curriculum-shards/ca-on-en-core-kindergarten-jk-sk.json",
+  "filters": {
+    "country": "CA",
+    "jurisdictionIds": ["ca-on"],
+    "programIds": ["en-core"],
+    "frameworkIds": ["ca-on-curriculum"],
+    "subjectIds": ["kindergarten"],
+    "gradeLevels": ["K"]
+  },
+  "standardCount": 25,
+  "aliasCount": 0
+}
   ]
 }
