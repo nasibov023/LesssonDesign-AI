@@ -42,7 +42,7 @@ for (const entry of manifest.shards) {
   for (const item of standards) {
     const code = String(item.standardCode || "");
 
-    if (!/^[A-Z]\d+$/.test(code)) {
+    if (!/^[A-Z]{1,2}\d+$/.test(code)) {
       report(`${entry.id}: Invalid overall expectation code ${code}`);
     }
 
