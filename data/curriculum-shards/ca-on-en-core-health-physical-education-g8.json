@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "schemaVersion": "2026-05-curriculum-platform",
+    "dataStatus": "runtime-shard",
+    "id": "ca-on-en-core-health-physical-education-g8",
+    "label": "Ontario Health and Physical Education Grade 8 curriculum",
+    "updated": "2026-11-27"
+  },
+  "defaults": {
+    "country": "CA",
+    "region": "Ontario",
+    "authority": "Ontario Ministry of Education",
+    "jurisdictionId": "ca-on",
+    "programId": "en-core",
+    "frameworkId": "ca-on-curriculum",
+    "sourceLanguage": "en",
+    "summaryLanguage": "en",
+    "sourceStatus": "in-progress",
+    "reviewStatus": "pending",
+    "gradeLevel": "8",
+    "gradeBand": "Grade 8",
+    "gradeLabel": "Grade 8",
+    "courseCode": "HPE8",
+    "courseLabel": "Health and Physical Education",
+    "courseTitle": "Health and Physical Education",
+    "subject": "health-physical-education",
+    "subjectAreaId": "health-physical-education",
+    "subjectId": "health-physical-education"
+  },
+  "documents": {
+    "ontario-hpe-g8-all-strands": {
+      "sourceUrl": "https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-health-and-physical-education/grades/grade-8/strands",
+      "documentTitle": "Ontario Health and Physical Education Grade 8 - Overall Expectations",
+      "documentVersion": "Ontario Curriculum, Grades 1–8: Health and Physical Education (2019)",
+      "sourceLanguage": "en"
+    }
+  },
+  "standards": [
+    {
+      "id": "ca-on-hpe-g8-a1",
+      "unit": "Social-Emotional Learning Skills",
+      "strand": "Social-Emotional Learning Skills",
+      "standardCode": "A1",
+      "summaryText": "apply, to the best of their ability, a range of social-emotional learning skills as they acquire knowledge and skills in connection with the expectations in the Active Living, Movement Competence, and Healthy Living strands for this grade",
+      "officialOutcomeText": "apply, to the best of their ability, a range of social-emotional learning skills as they acquire knowledge and skills in connection with the expectations in the Active Living, Movement Competence, and Healthy Living strands for this grade",
+      "curriculumFocus": "Social-Emotional Learning Skills",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Social-Emotional Learning Skills",
+      "moduleSequence": 0
+    },
+    {
+      "id": "ca-on-hpe-g8-b1",
+      "unit": "Active Living",
+      "strand": "Active Living",
+      "standardCode": "B1",
+      "summaryText": "participate actively and regularly in a wide variety of physical activities, and demonstrate an understanding of how physical activity can be incorporated into their daily lives;",
+      "officialOutcomeText": "participate actively and regularly in a wide variety of physical activities, and demonstrate an understanding of how physical activity can be incorporated into their daily lives;",
+      "curriculumFocus": "Active Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Active Living",
+      "moduleSequence": 10
+    },
+    {
+      "id": "ca-on-hpe-g8-b2",
+      "unit": "Active Living",
+      "strand": "Active Living",
+      "standardCode": "B2",
+      "summaryText": "demonstrate an understanding of the importance of being physically active, and apply physical fitness concepts and practices that contribute to healthy, active living;",
+      "officialOutcomeText": "demonstrate an understanding of the importance of being physically active, and apply physical fitness concepts and practices that contribute to healthy, active living;",
+      "curriculumFocus": "Active Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Active Living",
+      "moduleSequence": 20
+    },
+    {
+      "id": "ca-on-hpe-g8-b3",
+      "unit": "Active Living",
+      "strand": "Active Living",
+      "standardCode": "B3",
+      "summaryText": "demonstrate responsibility for their own safety and the safety of others as they participate in physical activities.",
+      "officialOutcomeText": "demonstrate responsibility for their own safety and the safety of others as they participate in physical activities.",
+      "curriculumFocus": "Active Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Active Living",
+      "moduleSequence": 30
+    },
+    {
+      "id": "ca-on-hpe-g8-c1",
+      "unit": "Movement Competence: Skills, Concepts, and Strategies",
+      "strand": "Movement Competence: Skills, Concepts, and Strategies",
+      "standardCode": "C1",
+      "summaryText": "perform movement skills, demonstrating an understanding of the basic requirements of the skills and applying movement concepts as appropriate, as they engage in a variety of physical activities;",
+      "officialOutcomeText": "perform movement skills, demonstrating an understanding of the basic requirements of the skills and applying movement concepts as appropriate, as they engage in a variety of physical activities;",
+      "curriculumFocus": "Movement Competence: Skills, Concepts, and Strategies",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Movement Competence: Skills, Concepts, and Strategies",
+      "moduleSequence": 40
+    },
+    {
+      "id": "ca-on-hpe-g8-c2",
+      "unit": "Movement Competence: Skills, Concepts, and Strategies",
+      "strand": "Movement Competence: Skills, Concepts, and Strategies",
+      "standardCode": "C2",
+      "summaryText": "apply movement strategies appropriately, demonstrating an understanding of the components of a variety of physical activities, in order to enhance their ability to participate successfully in those activities.",
+      "officialOutcomeText": "apply movement strategies appropriately, demonstrating an understanding of the components of a variety of physical activities, in order to enhance their ability to participate successfully in those activities.",
+      "curriculumFocus": "Movement Competence: Skills, Concepts, and Strategies",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Movement Competence: Skills, Concepts, and Strategies",
+      "moduleSequence": 50
+    },
+    {
+      "id": "ca-on-hpe-g8-d1",
+      "unit": "Healthy Living",
+      "strand": "Healthy Living",
+      "standardCode": "D1",
+      "summaryText": "demonstrate an understanding of factors that contribute to healthy development;",
+      "officialOutcomeText": "demonstrate an understanding of factors that contribute to healthy development;",
+      "curriculumFocus": "Healthy Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Healthy Living",
+      "moduleSequence": 60
+    },
+    {
+      "id": "ca-on-hpe-g8-d2",
+      "unit": "Healthy Living",
+      "strand": "Healthy Living",
+      "standardCode": "D2",
+      "summaryText": "demonstrate the ability to apply health knowledge and social-emotional learning skills to make reasoned decisions and take appropriate actions relating to their personal health and well-being;",
+      "officialOutcomeText": "demonstrate the ability to apply health knowledge and social-emotional learning skills to make reasoned decisions and take appropriate actions relating to their personal health and well-being;",
+      "curriculumFocus": "Healthy Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Healthy Living",
+      "moduleSequence": 70
+    },
+    {
+      "id": "ca-on-hpe-g8-d3",
+      "unit": "Healthy Living",
+      "strand": "Healthy Living",
+      "standardCode": "D3",
+      "summaryText": "demonstrate the ability to make connections that relate to health and well-being – how their choices and behaviours affect both themselves and others, and how factors in the world around them affect their own and others’ health and well-being.",
+      "officialOutcomeText": "demonstrate the ability to make connections that relate to health and well-being – how their choices and behaviours affect both themselves and others, and how factors in the world around them affect their own and others’ health and well-being.",
+      "curriculumFocus": "Healthy Living",
+      "sourceDocumentId": "ontario-hpe-g8-all-strands",
+      "moduleType": "outcome",
+      "moduleLabel": "Healthy Living",
+      "moduleSequence": 80
+    }
+  ]
+}
