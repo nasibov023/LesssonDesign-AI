@@ -2681,6 +2681,21 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-arts-g3",
+      "label": "Ontario The Arts Grade 3 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-arts-g3.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["arts"],
+        "gradeLevels": ["3"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
