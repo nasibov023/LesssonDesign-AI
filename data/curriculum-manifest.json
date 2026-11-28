@@ -2726,6 +2726,21 @@
       },
       "standardCount": 12,
       "aliasCount": 0
+    },
+    {
+      "id": "ca-on-en-core-arts-g6",
+      "label": "Ontario The Arts Grade 6 curriculum pieces",
+      "path": "data/curriculum-shards/ca-on-en-core-arts-g6.json",
+      "filters": {
+        "country": "CA",
+        "jurisdictionIds": ["ca-on"],
+        "programIds": ["en-core"],
+        "frameworkIds": ["ca-on-curriculum"],
+        "subjectIds": ["arts"],
+        "gradeLevels": ["6"]
+      },
+      "standardCount": 12,
+      "aliasCount": 0
     }
   ]
 }
